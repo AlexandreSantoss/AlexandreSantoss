@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexandreSantoss
 - 👀 I’m interested the Criação e Desenvolvimento de Sistemas
-- 🌱 I’m currently learning on Programar em Front End
+- 🌱 I’m currently learning on Programação Front End
 - 💞️ I’m looking to collaborate on Criação de Conteúdo 
 - 📫 How to reach me carvallpartners@gmail.com
 - 😄 Pronouns: Lex Coder
