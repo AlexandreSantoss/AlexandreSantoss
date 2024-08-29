@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AlexandreSantoss
-- 👀 I’m interested in Desenvolver Sistemas
-- 🌱 I’m currently learning a Programar em Front End
+- 👀 I’m interested on Desenvolver Sistemas
+- 🌱 I’m currently learning in Programar em Front End
 - 💞️ I’m looking to collaborate on Criação de Conteúdo 
-- 📫 How to reach me alexandrecdosantos@gmail.com
-- 😄 Pronouns: Lex Code
+- 📫 How to reach me carvallpartners@gmail.com
+- 😄 Pronouns: Lex Coder
 - ⚡ Fun fact: O que faz um Hacker, sem a internet? :)
 
 <!---
