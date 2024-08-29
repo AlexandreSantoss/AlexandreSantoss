@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexandreSantoss
-- 👀 I’m interested the Desenvolver Sistemas
+- 👀 I’m interested the Criação e Desenvolvimento de Sistemas
 - 🌱 I’m currently learning on Programar em Front End
 - 💞️ I’m looking to collaborate on Criação de Conteúdo 
 - 📫 How to reach me carvallpartners@gmail.com
